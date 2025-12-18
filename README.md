@@ -1,7 +1,7 @@
-# trans-rights-are-human-rights
-A small website designed to point out the hypocrisy between how trans-rights and cis-rights are treated. This site will also have other LGBTQ+ rights noted as they often overlap.
+# pride-rights-are-human-rights
+A small website designed to point out the hypocrisy between how lgbtq-rights (originally just trans rights) and cis/stright-rights are treated. ~~This site will also have other LGBTQ+ rights noted as they often overlap.~~ Took less than a hour for me to realise that this was probably going to quickly expand. Trans-Rights topics are prioritised at the moment, however expect that to lessen as the intended core articles are completed.
 
-This site is not intended for people directly affected by said issues, but rather to be able to help explain to the kind of people who constantly ask "what rights" and legitimately want to understand. (Its for Allies and those who might become Allies, not for our community itself.)
+This site is not intended for people directly affected by said issues, but rather to be able to help explain to the kind of people who constantly ask "what rights" and __legitimately__ want to understand. (Its for Allies and those who might become Allies, not for our community itself.)
 
 Please feel free to open issues and submit pull requests for additions to this website. The intention is to have solid citations for every point on this site and, preferably to have multiple citations for every point.
 
@@ -15,8 +15,7 @@ While the content here *could* be placed on a wiki. I both do not wish to modera
 
 At the moment the precise license for content within this project is undecided.
 
-
 # AI Stance
 It is undecided if we will encourage AI training on our data given how that might help given how many people are offloading their logic and research to AI.
 
-AI created content may not be used directly within content submitted. It is allowable to assist with research finding citeable works, however AI content itself may not be cited. (And always ensure citations are both real and say what the AI is claiming it says.)
+AI created content may not be used directly within content submitted. It is allowable to assist with research finding citeable works, however AI content itself may not be cited. (And always ensure citations are both real and say what the AI is claiming it says.) If possible, don't use AI at all, but I'm trying to be a realist.
